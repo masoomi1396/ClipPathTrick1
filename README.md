@@ -1,6 +1,6 @@
 # ClipPathTrick1
 *😁 This is my Trick1 with Clip Path*
-- [Demo Project](https://github.com/masoomi1396/ClipPathTrick1)
+- [Demo Project](https://masoomi1396.github.io/ClipPathTrick1/)
 - Developed by Amirmohammad Masoumi
 - Created - 2023-07-18
 - 🤖 Technologies Used - Html , Css 
